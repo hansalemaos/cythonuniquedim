@@ -1,0 +1,4 @@
+Cython
+cythonanyarray
+gmpy2
+numpy
